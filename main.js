@@ -1,4 +1,4 @@
-let name = "ionel";
+let name = "john";
 
 let friend = "mariana";
 
