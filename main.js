@@ -6,4 +6,4 @@ const showBestFriend = (name, bf) => console.log(name, bf);
 
 let secondFriend = "robert";
 
-let thirdFriend = "vasile";
+let thirdFriend = "george";
