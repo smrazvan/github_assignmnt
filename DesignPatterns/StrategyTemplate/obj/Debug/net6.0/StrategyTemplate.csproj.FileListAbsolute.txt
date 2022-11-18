@@ -1,0 +1,15 @@
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\bin\Debug\net6.0\StrategyTemplate.exe
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\bin\Debug\net6.0\StrategyTemplate.deps.json
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\bin\Debug\net6.0\StrategyTemplate.runtimeconfig.json
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\bin\Debug\net6.0\StrategyTemplate.dll
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\bin\Debug\net6.0\StrategyTemplate.pdb
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.csproj.AssemblyReference.cache
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.AssemblyInfoInputs.cache
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.AssemblyInfo.cs
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.csproj.CoreCompileInputs.cache
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.dll
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\refint\StrategyTemplate.dll
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.pdb
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\StrategyTemplate.genruntimeconfig.cache
+C:\Users\raswan\source\repos\DesignPatterns\StrategyTemplate\obj\Debug\net6.0\ref\StrategyTemplate.dll
