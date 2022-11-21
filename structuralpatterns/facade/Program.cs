@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Blogger_server.Entities;
-using proxy.Facade;
+using facade.Facade;
 
 
 var post = new Post() { };
