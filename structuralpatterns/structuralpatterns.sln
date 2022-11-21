@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facade", "proxy\facade.csproj", "{47E1259B-F741-422B-9F01-213978F0ED9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proxxy", "proxxy\proxxy.csproj", "{268396C8-6F76-4E84-9747-DEA259C9D60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decorator", "decorator\decorator.csproj", "{7D9009B8-769C-485F-9EC2-A6858684BEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E1259B-F741-422B-9F01-213978F0ED9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E1259B-F741-422B-9F01-213978F0ED9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E1259B-F741-422B-9F01-213978F0ED9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E1259B-F741-422B-9F01-213978F0ED9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268396C8-6F76-4E84-9747-DEA259C9D60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268396C8-6F76-4E84-9747-DEA259C9D60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268396C8-6F76-4E84-9747-DEA259C9D60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268396C8-6F76-4E84-9747-DEA259C9D60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9009B8-769C-485F-9EC2-A6858684BEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9009B8-769C-485F-9EC2-A6858684BEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9009B8-769C-485F-9EC2-A6858684BEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9009B8-769C-485F-9EC2-A6858684BEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC551A8-E7F5-4C9B-82AB-CF603B242C22}
+	EndGlobalSection
+EndGlobal

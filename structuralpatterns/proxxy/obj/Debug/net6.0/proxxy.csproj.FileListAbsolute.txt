@@ -1,0 +1,15 @@
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\bin\Debug\net6.0\proxxy.exe
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\bin\Debug\net6.0\proxxy.deps.json
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\bin\Debug\net6.0\proxxy.runtimeconfig.json
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\bin\Debug\net6.0\proxxy.dll
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\bin\Debug\net6.0\proxxy.pdb
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.csproj.AssemblyReference.cache
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.AssemblyInfoInputs.cache
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.AssemblyInfo.cs
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.csproj.CoreCompileInputs.cache
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.dll
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\refint\proxxy.dll
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.pdb
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\proxxy.genruntimeconfig.cache
+C:\Users\raswan\source\repos\structuralpatterns\proxxy\obj\Debug\net6.0\ref\proxxy.dll
